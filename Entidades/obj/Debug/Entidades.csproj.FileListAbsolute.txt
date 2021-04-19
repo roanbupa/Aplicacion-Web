@@ -1,0 +1,34 @@
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Entidades\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Entidades\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Entidades\obj\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Prueba\Entidades\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Prueba\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Prueba\Entidades\obj\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Prueba\Entidades\obj\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Prueba\Entidades\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Prueba\Entidades\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Prueba\Entidades\obj\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Prueba\Entidades\obj\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Prueba\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Prueba\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Entidades\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Entidades\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Entidades\obj\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Entidades\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Entidades\obj\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Entidades\obj\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Entidades\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Entidades\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Entidades\obj\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Entidades\obj\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Entidades\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Entidades\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Entidades\obj\Debug\Entidades.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Entidades\obj\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Entidades\obj\Debug\Entidades.pdb

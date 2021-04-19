@@ -1,0 +1,49 @@
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Persistencia\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Dell\Desktop\Prueba\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Dell\Desktop\Prueba\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Dell\Desktop\Prueba\Persistencia\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Prueba\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Prueba\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Prueba\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Dell\Desktop\Prueba\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Prueba\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Prueba\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Prueba\Persistencia\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Prueba\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Prueba\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Prueba\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Prueba\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Persistencia\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Persistencia\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Persistencia\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Persistencia\obj\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Persistencia\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Persistencia\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Persistencia\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Persistencia\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Persistencia\obj\Debug\Persistencia.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Persistencia\obj\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Persistencia\obj\Debug\Persistencia.pdb

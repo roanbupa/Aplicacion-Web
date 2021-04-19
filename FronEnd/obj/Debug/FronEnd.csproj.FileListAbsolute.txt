@@ -1,0 +1,77 @@
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\FronEnd\bin\FronEnd.dll
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\FronEnd\bin\FronEnd.pdb
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\FronEnd\bin\Entidades.dll
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\FronEnd\bin\Logica.dll
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\FronEnd\bin\Entidades.pdb
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\FronEnd\bin\Logica.pdb
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\FronEnd\obj\Debug\FronEnd.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\FronEnd\obj\Debug\FronEnd.dll
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\FronEnd\obj\Debug\FronEnd.pdb
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\FronEnd\bin\Persistencia.dll
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\FronEnd\bin\Persistencia.pdb
+C:\Users\Dell\Desktop\Prueba\FronEnd\bin\FronEnd.dll
+C:\Users\Dell\Desktop\Prueba\FronEnd\bin\FronEnd.pdb
+C:\Users\Dell\Desktop\Prueba\FronEnd\bin\Entidades.dll
+C:\Users\Dell\Desktop\Prueba\FronEnd\bin\Logica.dll
+C:\Users\Dell\Desktop\Prueba\FronEnd\bin\Persistencia.dll
+C:\Users\Dell\Desktop\Prueba\FronEnd\bin\Entidades.pdb
+C:\Users\Dell\Desktop\Prueba\FronEnd\bin\Logica.pdb
+C:\Users\Dell\Desktop\Prueba\FronEnd\bin\Persistencia.pdb
+C:\Users\Dell\Desktop\Prueba\FronEnd\obj\Debug\FronEnd.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Prueba\FronEnd\obj\Debug\FronEnd.dll
+C:\Users\Dell\Desktop\Prueba\FronEnd\obj\Debug\FronEnd.pdb
+C:\Users\tickantel\Desktop\Prueba\FronEnd\bin\FronEnd.dll
+C:\Users\tickantel\Desktop\Prueba\FronEnd\bin\FronEnd.pdb
+C:\Users\tickantel\Desktop\Prueba\FronEnd\bin\Entidades.dll
+C:\Users\tickantel\Desktop\Prueba\FronEnd\bin\Logica.dll
+C:\Users\tickantel\Desktop\Prueba\FronEnd\bin\Persistencia.dll
+C:\Users\tickantel\Desktop\Prueba\FronEnd\bin\Entidades.pdb
+C:\Users\tickantel\Desktop\Prueba\FronEnd\bin\Logica.pdb
+C:\Users\tickantel\Desktop\Prueba\FronEnd\bin\Persistencia.pdb
+C:\Users\tickantel\Desktop\Prueba\FronEnd\obj\Debug\FronEnd.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Prueba\FronEnd\obj\Debug\FronEnd.dll
+C:\Users\tickantel\Desktop\Prueba\FronEnd\obj\Debug\FronEnd.pdb
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\FronEnd\bin\FronEnd.dll
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\FronEnd\bin\FronEnd.pdb
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\FronEnd\bin\Entidades.dll
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\FronEnd\bin\Logica.dll
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\FronEnd\bin\Persistencia.dll
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\FronEnd\bin\Entidades.pdb
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\FronEnd\bin\Logica.pdb
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\FronEnd\bin\Persistencia.pdb
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\FronEnd\obj\Debug\FronEnd.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\FronEnd\obj\Debug\FronEnd.dll
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\FronEnd\obj\Debug\FronEnd.pdb
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\FronEnd\bin\FronEnd.dll
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\FronEnd\bin\FronEnd.pdb
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\FronEnd\bin\Entidades.dll
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\FronEnd\bin\Logica.dll
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\FronEnd\bin\Persistencia.dll
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\FronEnd\bin\Entidades.pdb
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\FronEnd\bin\Logica.pdb
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\FronEnd\bin\Persistencia.pdb
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\FronEnd\obj\Debug\FronEnd.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\FronEnd\obj\Debug\FronEnd.dll
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\FronEnd\obj\Debug\FronEnd.pdb
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\FronEnd\bin\FronEnd.dll
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\FronEnd\bin\FronEnd.pdb
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\FronEnd\bin\Entidades.dll
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\FronEnd\bin\Logica.dll
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\FronEnd\bin\Persistencia.dll
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\FronEnd\bin\Entidades.pdb
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\FronEnd\bin\Logica.pdb
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\FronEnd\bin\Persistencia.pdb
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\FronEnd\obj\Debug\FronEnd.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\FronEnd\obj\Debug\FronEnd.dll
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\FronEnd\obj\Debug\FronEnd.pdb
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\FronEnd\bin\FronEnd.dll
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\FronEnd\bin\FronEnd.pdb
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\FronEnd\bin\Entidades.dll
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\FronEnd\bin\Logica.dll
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\FronEnd\bin\Persistencia.dll
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\FronEnd\bin\Entidades.pdb
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\FronEnd\bin\Logica.pdb
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\FronEnd\bin\Persistencia.pdb
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\FronEnd\obj\Debug\FronEnd.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\FronEnd\obj\Debug\FronEnd.dll
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\FronEnd\obj\Debug\FronEnd.pdb

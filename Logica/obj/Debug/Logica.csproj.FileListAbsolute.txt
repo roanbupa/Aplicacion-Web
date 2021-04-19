@@ -1,0 +1,63 @@
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Aplicacion Web\Prueba\Logica\obj\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Prueba\Logica\bin\Debug\Logica.dll
+C:\Users\Dell\Desktop\Prueba\Logica\bin\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Prueba\Logica\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Prueba\Logica\bin\Debug\Persistencia.dll
+C:\Users\Dell\Desktop\Prueba\Logica\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Prueba\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Dell\Desktop\Prueba\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Prueba\Logica\obj\Debug\Logica.dll
+C:\Users\Dell\Desktop\Prueba\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Prueba\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Prueba\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Prueba\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Prueba\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Prueba\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Prueba\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Prueba\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Prueba\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Prueba\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Prueba2.0\Prueba\Logica\obj\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Logica\bin\Debug\Logica.dll
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Logica\bin\Debug\Logica.pdb
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Logica\bin\Debug\Entidades.dll
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Logica\bin\Debug\Persistencia.dll
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Logica\bin\Debug\Entidades.pdb
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Logica\bin\Debug\Persistencia.pdb
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Logica\obj\Debug\Logica.dll
+C:\Users\Dell\Desktop\Prueba2.0\Prueba\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Prueba3.0\Prueba\Logica\obj\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Logica\bin\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Logica\bin\Debug\Logica.pdb
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Logica\bin\Debug\Entidades.dll
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Logica\bin\Debug\Persistencia.dll
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Logica\bin\Debug\Entidades.pdb
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Logica\bin\Debug\Persistencia.pdb
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Logica\obj\Debug\Logica.csprojResolveAssemblyReference.cache
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Logica\obj\Debug\Logica.dll
+C:\Users\tickantel\Desktop\Obligatorio Aplicacion Web\Logica\obj\Debug\Logica.pdb
